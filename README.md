@@ -51,3 +51,8 @@ Metode Viola–Jones (Haarcascade) memang populer untuk deteksi wajah dasar, tet
 <div align="center">
   <img src="assets/ALGORITMA.png" alt="DIAGRAM ALGORITMA" width="400">
 </div>
+
+# KONSEP SISTEM
+Konsep sistem kali ini yaitu ada:
+**1** Deteksi Mata dan Wajah
+  -
