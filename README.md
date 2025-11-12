@@ -1,3 +1,5 @@
+![COVER PROJECT](assets/COVER.png)
+
 # KATA PENGANTAR
 Proyek ini dibuat sebagai bentuk implementasi teknologi Computer Vision untuk mendeteksi tingkat kantuk seseorang secara real-time menggunakan kamera. Sistem ini dikembangkan dengan bantuan MediaPipe Face Mesh untuk melacak pergerakan area mata dan menghitung Eye Aspect Ratio (EAR) sebagai indikator utama apakah mata terbuka atau tertutup.
 
