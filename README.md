@@ -75,6 +75,9 @@ Konsep sistem yang dikembangkan terdiri dari dua bagian utama:
 - Ketika kondisi tersebut terdeteksi, sistem akan menampilkan **notifikasi peringatan** dan mengaktifkan **alarm suara** untuk memperingatkan pengguna.
 
 # UML USE CASE 
+<div align="center">
+  <img src="assets/UML Project Detksi Ngantuk.png" alt="UML Project Detksi Ngantuk" width="400">
+</div>
 
 # KELEBIHAN MEDIAPIPE
   - Real-time dan Ringan
