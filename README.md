@@ -74,6 +74,8 @@ Konsep sistem yang dikembangkan terdiri dari dua bagian utama:
 - Jika **mata tertutup selama lebih dari 3 detik**, sistem akan mendeteksi kondisi **mengantuk**.  
 - Ketika kondisi tersebut terdeteksi, sistem akan menampilkan **notifikasi peringatan** dan mengaktifkan **alarm suara** untuk memperingatkan pengguna.
 
+# UML USE CASE 
+
 # KELEBIHAN MEDIAPIPE
   - Real-time dan Ringan
   - Akurasi Tinggi
