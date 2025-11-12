@@ -1,4 +1,7 @@
-![COVER PROJECT](assets/COVER.png)
+<div align="center">
+  <img src="assets/COVER.png" alt="COVER PROJECT" width="400">
+</div>
+
 
 # KATA PENGANTAR
 Proyek ini dibuat sebagai bentuk implementasi teknologi Computer Vision untuk mendeteksi tingkat kantuk seseorang secara real-time menggunakan kamera. Sistem ini dikembangkan dengan bantuan MediaPipe Face Mesh untuk melacak pergerakan area mata dan menghitung Eye Aspect Ratio (EAR) sebagai indikator utama apakah mata terbuka atau tertutup.
@@ -44,4 +47,6 @@ Metode Viola–Jones (Haarcascade) memang populer untuk deteksi wajah dasar, tet
 
 **4.** Tidak bisa mendeteksi kondisi mata tertutup atau terbuka secara akurat.
 
-![Algoritma MediaPipe Face Mesh](ALGORITMA.png)
+<div align="center">
+  <img src="assets/ALGORITMA.png" alt="DIAGRAM ALGORITMA" width="400">
+</div>
