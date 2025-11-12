@@ -2,14 +2,26 @@
   <img src="assets/COVER NEW.png" alt="COVER PROJECT" width="500">
 </div>
 
+<div align="center">
+
 # DI SUSUN OLEH
-| No    | Nama                      | NIM        |
-| ----- | ------------------------- | ---------- |
-| **1** | Arfin Nurur Robbi         | 2122600002 |
+| No | Nama | NRP |
+| :-: | :-------------------------: | :----------: |
+| **1** | Arfin Nurur Robbi | 2122600002 |
 | **2** | Nataratungga Xina Tannisa | 2122600006 |
-| **3** | Ahmad Zen Ashari          | 2122600009 |
-| **4** | Thofail Syakirudin        | 2122600037 |
-| **5** | Muhammad Iqbal Hanafi     | 2122600043 |
+| **3** | Ahmad Zen Ashari | 2122600009 |
+| **4** | Thofail Syakirudin | 2122600037 |
+| **5** | Muhammad Iqbal Hanafi | 2122600043 |
+
+### 👨‍🏫 DOSEN PENGAMPU
+**Akhmad Hendriawan, S.T., M.T.**  
+**NIP:** 19750127 200212 1 003
+
+</div>
+
+## 📂 Link Presentasi (PPT)
+[🔗 Buka Presentasi (Canva)](https://www.canva.com/design/DAG4SUS50Nc/X9_LE9DxaSkAgMKRbhSYXQ/edit?utm_content=DAG4SUS50Nc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 # KATA PENGANTAR
 Proyek ini dibuat sebagai bentuk implementasi teknologi Computer Vision untuk mendeteksi tingkat kantuk seseorang secara real-time menggunakan kamera. Sistem ini dikembangkan dengan bantuan MediaPipe Face Mesh untuk melacak pergerakan area mata dan menghitung Eye Aspect Ratio (EAR) sebagai indikator utama apakah mata terbuka atau tertutup.
