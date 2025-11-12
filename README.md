@@ -47,6 +47,7 @@ Metode Viola–Jones (Haarcascade) memang populer untuk deteksi wajah dasar, tet
 
 **4.** Tidak bisa mendeteksi kondisi mata tertutup atau terbuka secara akurat.
 
+# ALGORITMA SISTEM
 <div align="center">
   <img src="assets/ALGORITMA.png" alt="DIAGRAM ALGORITMA" width="400">
 </div>
