@@ -34,10 +34,12 @@ Jika mata mulai menutup, nilai EAR akan menurun — kondisi ini diidentifikasi s
 # MENGAPA VIOLA–JONES (HAARCASCADE) TIDAK DIGUNAKAN
 Metode Viola–Jones (Haarcascade) memang populer untuk deteksi wajah dasar, tetapi kurang sesuai untuk deteksi kantuk berbasis gerakan mata, karena:
 
-Hanya mendeteksi area mata secara bounding box, bukan titik (landmark).
+**1.** Hanya mendeteksi area mata secara bounding box, bukan titik (landmark).
 
-Tidak sensitif terhadap perubahan kecil, seperti kelopak mata yang menutup sebagian.
+**2.** Tidak sensitif terhadap perubahan kecil, seperti kelopak mata yang menutup sebagian.
 
-Rentan terhadap pencahayaan, posisi, dan sudut wajah.
+**3.** Rentan terhadap pencahayaan, posisi, dan sudut wajah.
 
-Tidak bisa mendeteksi kondisi mata tertutup atau terbuka secara akurat.
+**4.** Tidak bisa mendeteksi kondisi mata tertutup atau terbuka secara akurat.
+
+![Algoritma MediaPipe Face Mesh](ALGORITMA.png)
