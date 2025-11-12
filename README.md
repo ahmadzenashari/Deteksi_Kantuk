@@ -1,3 +1,4 @@
+# Mikro-Sleep
 <div align="center">
   <img src="assets/COVER NEW.png" alt="COVER PROJECT" width="500">
 </div>
@@ -14,10 +15,10 @@
 | **5** | Muhammad Iqbal Hanafi | 2122600043 |
 
 ### DOSEN PENGAMPU
-**Akhmad Hendriawan, S.T., M.T.**  
-**NIP:** 19750127 200212 1 003
+Akhmad Hendriawan, S.T., M.T.
+NIP: 19750127 200212 1 003
 
-### 📂 Link Presentasi (PPT)
+### LINK PRESENTASI (PPT)
 [🔗 Buka Presentasi (Canva)](https://www.canva.com/design/DAG4SUS50Nc/X9_LE9DxaSkAgMKRbhSYXQ/edit?utm_content=DAG4SUS50Nc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 </div>
