@@ -54,4 +54,19 @@ Metode Viola–Jones (Haarcascade) memang populer untuk deteksi wajah dasar, tet
 # KONSEP SISTEM
 Konsep sistem kali ini yaitu ada:
 **1** Deteksi Mata dan Wajah
-  -
+    - Sistem menggunakan MediaPipe Face Mesh untuk mendeteksi wajah dan            posisi mata secara real-time.
+    - MediaPipe memetakan landmark wajah (468 titik) dan mengambil area            mata untuk perhitungan Eye Aspect Ratio (EAR).
+**2** Penentuan Parameter Mengantuk
+    - Nilai EAR dibandingkan dengan ambang batas tertentu (misalnya 0.22).
+    - Jika mata tertutup lebih dari 3 detik, sistem mendeteksi kondisi             ngantuk.
+    - Sistem kemudian menampilkan notifikasi dan alarm suara untuk                 memperingatkan pengguna.
+    
+# KELBIHAN MEDIAPIPE
+  - Real-time dan Ringan
+  - Akurasi Tinggi
+  - Tidak Membutuhkan Perangkat Khusus
+  - Open Source dan Mudah Diintegrasikan
+# KEKURANGAN MEDIAPIPE
+  - Sensitif Terhadap Pencahayaan
+  - Kinerja Turun Saat wajah Tidak Menghadap Kamera
+  - Tidak Mendeteksi Tanda Lain dari Ngantuk
