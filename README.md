@@ -1,16 +1,6 @@
 <div align="center">
-  <img src="assets/COVER.png" alt="COVER PROJECT" width="400">
+  <img src="assets/COVER NEW.png" alt="COVER PROJECT" width="500">
 </div>
-
-
-# KATA PENGANTAR
-Proyek ini dibuat sebagai bentuk implementasi teknologi Computer Vision untuk mendeteksi tingkat kantuk seseorang secara real-time menggunakan kamera. Sistem ini dikembangkan dengan bantuan MediaPipe Face Mesh untuk melacak pergerakan area mata dan menghitung Eye Aspect Ratio (EAR) sebagai indikator utama apakah mata terbuka atau tertutup.
-
-Melalui metode ini, sistem mampu mengenali kondisi kantuk berdasarkan durasi mata tertutup dan memberikan peringatan berupa suara serta notifikasi agar pengguna tetap waspada. Proyek ini diharapkan dapat membantu meningkatkan keselamatan kerja maupun berkendara, terutama bagi pengguna yang membutuhkan fokus tinggi dalam jangka waktu lama.
-
-Pengembangan dilakukan menggunakan Python dengan dukungan pustaka seperti mediapipe, opencv, tkinter, dan pygame, serta dilengkapi antarmuka sederhana agar mudah digunakan oleh pengguna umum maupun pengembang.
-
-Kami berharap proyek ini dapat menjadi kontribusi kecil dalam bidang keamanan berbasis visi komputer, sekaligus membuka peluang penelitian lanjutan untuk sistem deteksi kelelahan yang lebih cerdas dan akurat.
 
 # DI SUSUN OLEH
 | No    | Nama                      | NIM        |
@@ -20,6 +10,15 @@ Kami berharap proyek ini dapat menjadi kontribusi kecil dalam bidang keamanan be
 | **3** | Ahmad Zen Ashari          | 2122600009 |
 | **4** | Thofail Syakirudin        | 2122600037 |
 | **5** | Muhammad Iqbal Hanafi     | 2122600043 |
+
+# KATA PENGANTAR
+Proyek ini dibuat sebagai bentuk implementasi teknologi Computer Vision untuk mendeteksi tingkat kantuk seseorang secara real-time menggunakan kamera. Sistem ini dikembangkan dengan bantuan MediaPipe Face Mesh untuk melacak pergerakan area mata dan menghitung Eye Aspect Ratio (EAR) sebagai indikator utama apakah mata terbuka atau tertutup.
+
+Melalui metode ini, sistem mampu mengenali kondisi kantuk berdasarkan durasi mata tertutup dan memberikan peringatan berupa suara serta notifikasi agar pengguna tetap waspada. Proyek ini diharapkan dapat membantu meningkatkan keselamatan kerja maupun berkendara, terutama bagi pengguna yang membutuhkan fokus tinggi dalam jangka waktu lama.
+
+Pengembangan dilakukan menggunakan Python dengan dukungan pustaka seperti mediapipe, opencv, tkinter, dan pygame, serta dilengkapi antarmuka sederhana agar mudah digunakan oleh pengguna umum maupun pengembang.
+
+Kami berharap proyek ini dapat menjadi kontribusi kecil dalam bidang keamanan berbasis visi komputer, sekaligus membuka peluang penelitian lanjutan untuk sistem deteksi kelelahan yang lebih cerdas dan akurat.
 
 # TUJUAN
 | No    | Tujuan                                                                                                           |
