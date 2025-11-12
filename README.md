@@ -76,25 +76,8 @@ Konsep sistem yang dikembangkan terdiri dari dua bagian utama:
 
 # UML USE CASE 
 <div align="center">
-  <img src="assets/UML Project Detksi Ngantuk.png" alt="UML Project Detksi Ngantuk" width="400">
+ <img src="assets/UML Project Deteksi Ngantuk.png" alt="UML" width="400">
 </div>
-
-Ketika aplikasi dijalankan, system akan menampilkan gui pengaturan
-- System akan menampilkan gui untuk mode user.
-- Jika pengguna mengubah mode user ke mode developer, system akan menampilkan gui untuk memasukkan pasword.
-- Pengguna memasukkan password, system akan memverifikasi password.
-- Jika salah akan menampilkan “password salah”, jika benar maka system akan mengubah tampilan gui pengaturan developer.
-Dalam mode developer
-- Pengguna bisa mengatur pengaturan seperti resolusi kamera, nada dering, waktu kantuk dan batas kedipan kantuk.
-- Jika pengguna menekan tombol start, maka system akan menyimpan pengaturan yang telah ditetapkan kemudian akan mengakses kamera.
-- System akan menampilkan kamera untuk mendeteksi kantuk.
-- System akan mendeteksi kantuk berdasarkan mata pengguna, jika mata tertutup selama beberapa detik akan dideteksi kantuk dan akan membunyikan alarm sementara.
-- Jika system mendeteksi kantuk lagi dan melebihi batas kantuk, system akan membunyikan alarm untuk istirahat.
-Dalam mode user
-- Jika pengguna menekan tombol start, maka system akan menetapkan pengaturan secar default kemudian akan mengakses kamera.
-- System akan menampilkan kamera untuk mendeteksi kantuk.
-- System akan mendeteksi kantuk berdasarkan mata pengguna, jika mata tertutup selama beberapa detik akan dideteksi kantuk dan akan membunyikan alarm sementara.
-- Jika system mendeteksi kantuk lagi dan melebihi batas kantuk, system akan membunyikan alarm untuk istirahat.
 
 # KELEBIHAN MEDIAPIPE
   - Real-time dan Ringan
