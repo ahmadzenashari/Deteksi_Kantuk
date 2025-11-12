@@ -113,3 +113,11 @@ Dalam mode user
   - Sensitif Terhadap Pencahayaan
   - Kinerja Turun Saat wajah Tidak Menghadap Kamera
   - Tidak Mendeteksi Tanda Lain dari Ngantuk
+
+**KONDISI CPU , RAM DAN GPU SAAT PROGAM RUNNING**
+<div align="center">
+  <img src="assets/Kondisi%20CPU%20dan%20GPU%20saat%20run.png" alt="COVER PROJECT" width="500">
+</div>
+
+<div align="center">
+
