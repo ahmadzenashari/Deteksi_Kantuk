@@ -16,7 +16,8 @@
 
 ### DOSEN PENGAMPU
 Akhmad Hendriawan, S.T., M.T.
-NIP: 19750127 200212 1 003
+
+NIP: 197501272002121003
 
 ### LINK PRESENTASI (PPT)
 [🔗 Buka Presentasi (Canva)](https://www.canva.com/design/DAG4SUS50Nc/X9_LE9DxaSkAgMKRbhSYXQ/edit?utm_content=DAG4SUS50Nc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
